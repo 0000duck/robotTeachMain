@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/robot.png</file>
+        <file>images/logo.png</file>
+        <file>images/KUKArobot.png</file>
+        <file>images/HSrobot.png</file>
+        <file>images/HRrobot.png</file>
+        <file>images/FNKrobot.png</file>
+        <file>images/ACrobot.png</file>
+        <file>images/ABBrobot.png</file>
+        <file>images/screen.png</file>
+    </qresource>
+</RCC>
